@@ -2,7 +2,7 @@
 
 😄 I am 15 years old (turning 16 soon)  
 
-🙂 I am a web developer, I can write code in HTML, CSS, and a little JS, and my backend is Python.  
+🙂 I am a web developer, I can write code in HTML, CSS, and a little JS, and my backend is Python/Django.  
 
 👍 Among the frameworks I know Bootstrap, Bulma and Django for the backend.  
 
