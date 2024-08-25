@@ -6,8 +6,6 @@
 
 👍 Among the frameworks I know Bootstrap, Bulma and Django for the backend.  
 
-Well, I also know how to create telegram bots, but I’m sensitive. So to speak, a hobby 😄  
-
 👀 I am also interested in music, I can play the piano and clarinet, and I go in for sports.  
 
 🌱 Now I'm in 11th grade, I'll graduate from school in a year and want to continue the path of a programmer✌️  
