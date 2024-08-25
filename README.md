@@ -42,11 +42,26 @@
         .emoji {
             font-size: 1.5em;
         }
+        .animated-heading {
+            font-size: 2em;
+            color: #333;
+            animation: slideUp 2s ease-out;
+        }
+        @keyframes slideUp {
+            0% {
+                transform: translateY(50px);
+                opacity: 0;
+            }
+            100% {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1 class="fade-in">👋 Hello, I'm @ayhandev or just Ayhan</h1>
+        <h1 class="animated-heading">👋 Hello, I'm @ayhandev or just Ayhan</h1>
         <p class="slide-in">😄 I am 15 years old (turning 16 soon)</p>
         <p class="slide-in">🙂 I am a web developer, I can write code in HTML, CSS, and a little JS, and my backend is Python.</p>
         <p class="slide-in">👍 Among the frameworks I know Bootstrap, Bulma and Django for the backend.</p>
@@ -54,7 +69,6 @@
         <p class="slide-in">👀 I am also interested in music, I can play the piano and clarinet, and I go in for sports.</p>
         <p class="slide-in">🌱 Now I'm in 11th grade, I'll graduate from school in a year and want to continue the path of a programmer✌️</p>
         <p class="slide-in">💞️ I can collaborate on web development.</p>
-        <p class="slide-in">📫 You can contact me on Linkedin or by mail, all the information is in my profile, there is a link to my portfolio website.</p>
         <p class="slide-in">I will always be happy to help you if you need help, thanks for reading about me😁</p>
     </div>
 </body>
