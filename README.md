@@ -1,6 +1,6 @@
 # 👋 Hello, I'm @ayhandev or just Ayhan
 
-😄 I am 15 years old (turning 16 soon)  
+😄 I am 16 years old   
 
 🙂 I am a web developer, I can write code in HTML, CSS, and a little JS, and my backend is Python.  
 
