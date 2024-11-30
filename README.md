@@ -8,8 +8,8 @@
 
 👀 I am also interested in music, I can play the piano and clarinet, and I go in for sports.  
 
-🌱 Now I'm in 11th grade, I'll graduate from school in a year and want to continue the path of a programmer✌️  
+☑️ I programming webistes on Python framework Django and I have lot of projects on Django.
 
-👨🏻‍💻 I can collaborate on web development.  
+🌱 Now I'm in 11th grade and after May 2025 i going to INHA University✌️    
 
 I will always be happy to help you if you need help, thanks for reading about me😁  
